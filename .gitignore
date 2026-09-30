@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+Book2*.xlsx
+~$Book2.xlsx
+.vscode/tasks.json
